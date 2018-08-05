@@ -1,0 +1,13 @@
+---
+label: post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Layout
+  name: post
+  default: post
+- type: text
+  name: title
+  label: Title
+  default: Blog Post Number One
